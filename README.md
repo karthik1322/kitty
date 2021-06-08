@@ -1,1 +1,2 @@
 # validating
+bokkalo valiatin
