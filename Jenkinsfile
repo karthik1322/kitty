@@ -4,6 +4,11 @@ pipeline {
         stage('test') {
             steps {
                 echo "this is newbranch"
+
+        stage('build') {
+            steps {
+                echo "Hello main!"
+
             }
         }
     }
